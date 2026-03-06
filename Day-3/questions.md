@@ -1,6 +1,6 @@
-## 🎯 **Day 3 – Loops & Patterns**
+##  **Day 3 – Loops & Patterns**
 
-### 🧩 **Core Concept Focus**
+###  **Core Concept Focus**
 
 * Nested Loops
 * Pattern Printing with Logic and Symmetry
@@ -8,7 +8,7 @@
 
 ---
 
-### 🧠 **Questions List**
+###  **Questions List**
 
 1. **Print Right-Angled Star Triangle**
 
@@ -38,7 +38,7 @@
      **
      *
      ```
-   * ✨ *Reinforces decreasing nested loop structure.*
+   *  *Reinforces decreasing nested loop structure.*
 
 ---
 
@@ -54,7 +54,7 @@
       *******
      *********
      ```
-   * ✨ *Teaches alignment using spaces and nested loops.*
+   *  *Teaches alignment using spaces and nested loops.*
 
 ---
 
@@ -70,6 +70,6 @@
         ***
          *
      ```
-   * ✨ *Teaches reverse space-star pattern alignment.*
+   *  *Teaches reverse space-star pattern alignment.*
 
 
